@@ -1,0 +1,89 @@
+.flooterhedar{
+     background-image: url(https://www.icicilombard.com/docs/default-source/assets/sandbox/images/singleownermultiplevehicle.jpg);
+      height: 600px;
+      color: white;
+      display: flex;
+      
+    } 
+
+.flooterform{
+    width: 400px;
+    height: 400px;
+    margin-left: 60%;
+    color: white;
+
+}    
+.flooterinfo{
+    padding: 40px;
+    height: 400px;
+    width: 300px;
+}
+.flooterinput{
+    width: 440px;
+    margin-top: 40px;
+    border-style: none;
+    background: transparent;
+    border-bottom: 1px solid gray;
+    color: white;
+    font-size: 20px;
+}
+.flooterlabel{
+    margin-top: 10px;
+    font-size: 20px;
+    color: gray;
+}
+.flooterbtn1{
+    margin-left: 250px;
+    margin-top: 20px;
+    height: 60px;
+    width: 160px;
+    border-radius: 50px;
+    border-style: none;
+    background-color: #fe6625;
+    color: white;
+}
+.flooterselect{
+    padding: 40px;
+    height: 400px;
+    width: 400px;
+    color: white;
+    
+}
+.flootercb{
+    width: 440px;
+    margin-top: 40px;
+    background: transparent;
+    color:gray;
+    border-style:none ;
+    border-bottom:1px solid gray ;
+
+}
+.flooterbtn2{
+    position: relative;
+    margin-top: 140px;
+    margin-left: 100px;
+    top: 55px;
+    width: 160px;
+    height: 50px;
+    border-radius: 50px;
+    background: transparent;
+    color: white;
+
+}
+.flooterbtn3{
+    margin-left: 290px;
+    margin-top: 0px;
+    height: 60px;
+    width: 160px;
+    border-radius: 50px;
+    background-color: #fe6625;
+    border-style: none;
+}
+
+.text{
+    margin-left: 10%;
+    position: relative;
+    top: 60px;
+    width: 550px;
+
+}

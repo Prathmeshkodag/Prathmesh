@@ -1,0 +1,99 @@
+
+.mainpage{
+    height: 100%;
+}
+.pages{
+    padding-left: 0px;
+    position: relative;
+    margin-left: 150px;
+    padding-top: 20px;
+    height: 100%;
+    gap: 20px;
+    flex-wrap: nowrap;
+    display: flex;
+    
+    
+    
+    
+}
+
+
+.card{
+    height: 300px;
+    width: 430px;
+    border:1px solid rgba(208, 199, 199, 0.875);
+    border-radius: 10px;
+    flex-wrap: nowrap;
+    
+}
+ 
+
+.cardimg{
+    border-radius: 50%;
+    height: 53px;
+    width: 53px;
+    margin: 25px;
+}
+.header{
+    display: flex;
+}
+.info{
+    margin-top: 25px;
+    margin-left: 0px;
+     height: 30px;
+}
+.info h6{
+    font-weight: 700;
+}
+.info p{
+  color: rgb(131, 122, 122);
+}
+.newinfo{
+    color: blue;
+}
+.cardbtn{
+    position: absolute;
+    left: 100px;
+    background-color: transparent;
+    border-radius: 5px;
+    border-color: orange;
+    color: orange;
+    text-align: center;
+    
+}
+.sharebtn{
+    margin: 25px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    border-style: none;
+    position: static;
+}
+
+
+a{
+    display: block;
+    margin-left: 20px;
+    list-style: none;
+    
+}
+
+.Dropdown-contant{
+    position: absolute;
+    bottom: 150px;
+    right: 10px;
+    margin-left: 20px;
+    height: 130px;
+    list-style: none;
+    background-color: white;
+    box-shadow: 5px;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+.body{
+    padding: 30px;
+    margin-top: 50px;
+    overflow: hidden;
+    overflow-y: auto;
+    overflow-x: scroll;
+}
